@@ -46,4 +46,4 @@ git push --force
 Удалить локальную ветку, если уже сделан её пуш и мердж:
 git branch -d branch_name
 удалим такую же ветку из самого репозитория:
-git push origin --delete stage
+git push origin --delete branch_name
